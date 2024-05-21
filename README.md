@@ -80,6 +80,5 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
+Email: xenawixh@gmail.com
+
